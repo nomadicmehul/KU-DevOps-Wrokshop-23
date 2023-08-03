@@ -1,7 +1,5 @@
 ![KU-DevOps-Wrokshop-23](./Images/event-cover.JPG)
 
-📢Join us for a [One Day workshop](https://www.meetup.com/docker-ahmedabad/events/294404615/) on Docker and Kubernetes!
-
 [![](https://img.shields.io/badge/Mehul-Patel-brightgreen.svg?colorB=00ff00)](https://www.nomadicmehul.com)
 [![GitHub Mehul Patel](https://img.shields.io/github/followers/nomadicmehul?label=follow&style=social)](https://github.com/nomadicmehul)
 [![Linkedin: Mehul Patel](https://img.shields.io/badge/-Mehul%20Patel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nomadicmehul/)](https://www.linkedin.com/in/nomadicmehul/)
@@ -17,8 +15,6 @@
 
 * **Title**: DevOps 101
 * **Talk Abstract**: Cover the beginner friednly DevOps workshop covering tools like Git, Docker, Terraform and GCP. 
-
-* 🪪 [Presentation Deck](./Mastering%20Docker_%20Build%2C%20Deploy%2C%20and%20Run%20Your%20First%20Containerized%20App.pdf.pdf)
 
 * ##### [Docker Basic Commands](https://github.com/nomadicmehul/CloudCaptain/blob/main/Docker/docker-basic-commands.md)   
 
