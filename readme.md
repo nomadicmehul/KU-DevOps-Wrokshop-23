@@ -1,4 +1,4 @@
-![KU-DevOps-Wrokshop-23](./images/event-cover.jpg)
+![KU-DevOps-Wrokshop-23](./Images/event-cover.JPG)
 
 📢Join us for a [One Day workshop](https://www.meetup.com/docker-ahmedabad/events/294404615/) on Docker and Kubernetes!
 
