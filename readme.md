@@ -14,7 +14,7 @@
 #### Speaker : [Mehul Patel](https://twitter.com/NomadicMehul)
 
 * **Title**: DevOps 101
-* **Talk Abstract**: Cover the beginner friednly DevOps workshop covering tools like Git, Docker, Terraform and GCP. 
+* **Talk Abstract**: Cover the beginner friednly DevOps workshop covering tools like Git, Docker, Terraform with Google Cloud Platform(GCP). 
 
 * ##### [Docker Basic Commands](https://github.com/nomadicmehul/CloudCaptain/blob/main/Docker/docker-basic-commands.md)   
 
